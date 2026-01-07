@@ -16,5 +16,6 @@ public class Armstrong_number {
 
         }
         System.out.print("The sum of cube of each digit is: " + sum + "\nHence it is a armstrong number");
+        in.close();
     }
 }
